@@ -1,0 +1,36 @@
+{
+  "name": "complacent",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Google places client for the browser with a sane API",
+  "license": "MIT",
+  "repository": "bendrucker/complacent",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "google",
+    "places",
+    "browser",
+    "api",
+    "client",
+    "browser"
+  ],
+  "devDependencies": {
+    "standard": "^6.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "google-places-browser": "~1.0.0",
+    "lazy-async": "~1.0.0",
+    "load-google-maps": "~1.0.0"
+  }
+}
