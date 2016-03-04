@@ -1,7 +1,7 @@
 {
   "name": "complacent",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Google places client for the browser with a sane API",
   "license": "MIT",
   "repository": "bendrucker/complacent",
