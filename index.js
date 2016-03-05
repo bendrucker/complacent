@@ -9,7 +9,7 @@ var Places = require('google-places-browser/places')
 module.exports = Complacent
 
 var methods = [
-  'autocomplete.places',
+  'autocomplete.place',
   'autocomplete.query',
   'places.details',
   'places.nearby',
