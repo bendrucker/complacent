@@ -22,7 +22,7 @@
     "browser"
   ],
   "devDependencies": {
-    "standard": "^6.0.0"
+    "standard": "^7.1.2"
   },
   "files": [
     "index.js"
