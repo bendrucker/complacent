@@ -1,4 +1,4 @@
-# complacent [![Build Status](https://travis-ci.org/bendrucker/complacent.svg?branch=master)](https://travis-ci.org/bendrucker/complacent)
+# complacent [![Build Status](https://travis-ci.org/bendrucker/complacent.svg?branch=master)](https://travis-ci.org/bendrucker/complacent) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/complacent.svg)](https://greenkeeper.io/)
 
 > Google places client for the browser with a sane API
 
